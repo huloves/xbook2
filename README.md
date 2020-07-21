@@ -13,7 +13,7 @@ USER MODE:
 +---------------------------------+
 |shell | text edit | compiler     |
 +---------------------------------+  
-|netsrv | filesrv | guisrv| libOS |
+|netsrv | filesrv| guisrv| libOS  |
 +---------------------------------+
 KERNEL MODE: 
 +---------------------------+
